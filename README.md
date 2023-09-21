@@ -1,7 +1,7 @@
 # Different tasks
 
 <br>
-[![Static Badge](https://img.shields.io/badge/Program%20-%20p?label=API&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/MyProgrammes/tree/main/API)
+<p> Program API </p>
 <br>
 
 
