@@ -1,11 +1,7 @@
 # Different tasks
 
 <br>
-<h2><p><span style='color: blue;'>API</span></p></h2>
-<h3><p>MiniProject:</p></h3>
-<ul>
-<ol><p>1. exchangeratesapi/currency.py: A program that shows currency exchange rates*</p></ol>
-</ul>
+[![Static Badge](https://img.shields.io/badge/Program%20-%20p?label=API&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/MyProgrammes/tree/main/API)
 <br>
 
 
