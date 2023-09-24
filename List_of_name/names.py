@@ -6,7 +6,7 @@ python3 names.py > index.html & firefox index.html - run app
 cat index.html - display in the console the contents of the index.html file
 '''
 
-link = r'/home/adrian/Pulpit/GitHub/My Programmes/List_of_name/Names.txt'
+link = r'/home/adrian/Pulpit/GitHub/My_Programmes/List_of_name/Names.txt'
 
 #  ver.1
 f = open(link, 'r', encoding='UTF-8')
