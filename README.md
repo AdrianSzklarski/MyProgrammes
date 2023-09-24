@@ -1,7 +1,7 @@
 # Different tasks
 
 <br>
-<p> Program API </p>
+<p> Program API | List of name (HTML & argv) </p>
 <br>
 
 
@@ -15,7 +15,6 @@
 
 ## Author:
 Programme code written by A.Szklarski 2023r
-**End: Recruitment_1**
 
 
 
