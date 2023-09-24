@@ -1,7 +1,9 @@
 # Different tasks
 
 <br>
-<p> Program API | List of name (HTML & argv) </p>
+![Static Badge](https://img.shields.io/badge/Program%20API%20-%20api)
+![Static Badge](https://img.shields.io/badge/List%20of%20name%20(HTML%20%26%20argv)%20-%20thml?labelColor=blue&color=blue)
+
 <br>
 
 
