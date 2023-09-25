@@ -1,5 +1,5 @@
 """A program that shows currency exchange rates
-       Adrian Szklarski, 09.2023 year
+       @AdrianSzklarski, 09.2023
 """
 from privMethods.exchangeratesapi import get_exchangeratesapi
 import requests

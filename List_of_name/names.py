@@ -4,6 +4,7 @@ ls
 python3 names.py > index.html - writing code from Python to html
 python3 names.py > index.html & firefox index.html - run app
 cat index.html - display in the console the contents of the index.html file
+@AdrianSzklarski, 09.2023
 '''
 
 link = r'/home/adrian/Pulpit/GitHub/My_Programmes/List_of_name/Names.txt'
